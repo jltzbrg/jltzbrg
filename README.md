@@ -1,15 +1,12 @@
-### Hi there 👋
-
-
 ## Hola 👋, 
 I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies and open source.
 
 
 - 🔭 I’m currently working on SwiftUI Apps
-- 🌱 I’m currently learning clean code & UI-UX Design 
+- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React, SwiftUI 
 - 💬 Ask me about: anime / cartoons
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+-  ⚡ Languages: Dart, JavaScript, Swift
 
 >I live by letting things happen. Dogen
 <!--
