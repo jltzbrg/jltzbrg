@@ -11,12 +11,7 @@ I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, Kotlin, Python3
 
-
-> El Psy Kongroo
-
-
----
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
+>I live by letting things happen. Dogen
 <!--
 **jltzbrg/jltzbrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
