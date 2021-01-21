@@ -2,9 +2,9 @@
 I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies and open source.
 
 
-- 🔭 I’m currently working on SwiftUI Apps
-- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React, SwiftUI 
-- 💬 Ask me about: anime / cartoons
+- 🔭 I’m currently working on SwiftUI Apps for iOS, macOS, watchOS, tvOS 
+- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React, SwiftUI, Ethereum / Solidity 
+- 💬 Ask me about: anime / cartoons / future / dreams 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Dart, JavaScript, Swift
 
