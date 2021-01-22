@@ -1,4 +1,4 @@
-## Hola 👋, 
+## Hola 👋🏾, 
 I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies and open source.
 
 
