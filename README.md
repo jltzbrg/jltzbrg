@@ -3,7 +3,7 @@ I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who
 
 
 - 🔭 I’m currently working on SwiftUI Apps for iOS, macOS, watchOS, tvOS 
-- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React, SwiftUI, Ethereum / Solidity 
+- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React+Gatsby, GraphQL - SwiftUI, Shopify
 - 💬 Ask me about: anime / cartoons / future / dreams 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Dart, JavaScript, Swift
