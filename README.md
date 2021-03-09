@@ -1,9 +1,9 @@
 ## Hola 👋🏾, 
-I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies and open source.
+I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies.
 
 
-- 🔭 I’m currently working on SwiftUI Apps for iOS, macOS, watchOS, tvOS 
-- 🌱 I’m currently learning clean code & UI-UX Design, Electron, React+Gatsby, GraphQL - SwiftUI, Shopify
+- 🔭 I’m currently working on building up my world with code & pixel. 
+- 🌱 I’m currently learning clean code & UI-UX Design, Electron, MERN, GraphQL, Flutter, SwiftUI, Shopify
 - 💬 Ask me about: anime / cartoons / future / dreams 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Dart, JavaScript, Swift
