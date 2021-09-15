@@ -1,12 +1,12 @@
 ## Hola 👋🏾, 
-I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about mobile / desktop technologies.
+I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who is passionate about building apps.
 
 
 - 🔭 I’m currently working on building up my world with code & pixel. 
-- 🌱 I’m currently learning clean code & UI-UX Design, Electron, MERN, GraphQL, Flutter, SwiftUI, Shopify
+- 🌱 I’m still learning clean code & UI-UX Design, Electron, MERN, GraphQL, Flutter, SwiftUI, Shopify
 - 💬 Ask me about: anime / cartoons / future / dreams 
 - 😄 Pronouns: he/him
--  ⚡ Languages: Dart, JavaScript, Swift
+-  ⚡ Languages: Dart, JavaScript/Typescript, Swift, Ruby
 
 >I live by letting things happen. Dogen
 <!--
