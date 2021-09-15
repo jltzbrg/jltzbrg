@@ -3,8 +3,8 @@ I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 who
 
 
 - 🔭 I’m currently working on building up my world with code & pixel. 
-- 🌱 I’m still learning clean code & UI-UX Design, Electron, MERN, GraphQL, Flutter, SwiftUI, Shopify
-- 💬 Ask me about: anime / cartoons / future / dreams 
+- 🌱 I’m still learning clean code & UI-UX Design, MERN, GraphQL, Flutter, SwiftUI, Shopify
+- 💬 Ask me about: anime / cartoons / future / dreams  
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Dart, JavaScript/Typescript, Swift, Ruby
 
