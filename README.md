@@ -1,9 +1,8 @@
 ## Hola 👋🏾, 
 I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 
 
-- 🌱 I’m still learning clean code & UI-UX Design, MERN, GraphQL, Flutter, SwiftUI, Shopify
-- 💬 Ask me about: anime / cartoons / future / dreams  
--  ⚡ Languages: Dart, JavaScript/Typescript, Swift 
+- 🌱 I’m still learning new technologies.
+-  ⚡ Languages: JavaScript/Typescript, Swift 
 
 >I live by letting things happen. Dogen
 <!--
