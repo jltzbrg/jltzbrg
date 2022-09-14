@@ -2,7 +2,7 @@
 I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 
 
 - 🌱 I’m still learning new technologies.
--  ⚡ Languages: JavaScript/Typescript, Swift 
+-  ⚡ Languages: JavaScript/Typescript, Swift, Dart 
 
 >I live by letting things happen. Dogen
 <!--
