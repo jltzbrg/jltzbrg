@@ -1,10 +1,12 @@
-## Hola 👋🏾, 
-I'm Julio from 🇩🇴, I'm a self-taught driven learner & App Dev 📱💻 
+# Hola 👋🏾, I’m Julio.
 
-- 🌱 I’m still learning new technologies.
--  ⚡ Languages: JavaScript/Typescript, Swift, Dart 
+I’m a developer and maker based in Berlin. I turn ideas into useful software, with a focus on clear design and thoughtful details.
 
->I live by letting things happen. Dogen
+I enjoy building tools that are easy to understand and a pleasure to use. Things that make everyday work a little easier.
+
+I’m also building [muisimple](https://muisimple.com), an independent software studio.
+
+[Website](https://www.juliolitzenberg.com) · [Say hello](mailto:post@juliolitzenberg.com)
 <!--
 **jltzbrg/jltzbrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
